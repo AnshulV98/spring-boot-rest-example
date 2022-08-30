@@ -1,4 +1,4 @@
-package com.khoubyari.example.domain;
+package com.craftdemo.intuit.domain;
 
 import javax.xml.bind.annotation.XmlRootElement;
 

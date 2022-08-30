@@ -1,4 +1,4 @@
-package com.khoubyari.example.api.rest.docs;
+package com.craftdemo.intuit.api.rest.docs;
 
 import com.google.common.base.Predicates;
 

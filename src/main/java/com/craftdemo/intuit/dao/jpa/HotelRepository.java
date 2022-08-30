@@ -1,6 +1,6 @@
-package com.khoubyari.example.dao.jpa;
+package com.craftdemo.intuit.dao.jpa;
 
-import com.khoubyari.example.domain.Hotel;
+import com.craftdemo.intuit.domain.Hotel;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.repository.PagingAndSortingRepository;

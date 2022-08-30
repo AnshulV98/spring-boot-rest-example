@@ -1,4 +1,4 @@
-package com.khoubyari.example.service;
+package com.craftdemo.intuit.service;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

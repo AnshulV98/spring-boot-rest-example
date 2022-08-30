@@ -1,8 +1,8 @@
-package com.khoubyari.example.api.rest;
+package com.craftdemo.intuit.api.rest;
 
-import com.khoubyari.example.domain.RestErrorInfo;
-import com.khoubyari.example.exception.DataFormatException;
-import com.khoubyari.example.exception.ResourceNotFoundException;
+import com.craftdemo.intuit.domain.RestErrorInfo;
+import com.craftdemo.intuit.exception.DataFormatException;
+import com.craftdemo.intuit.exception.ResourceNotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.ApplicationEventPublisher;

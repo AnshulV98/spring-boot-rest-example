@@ -1,4 +1,4 @@
-package com.khoubyari.example.exception;
+package com.craftdemo.intuit.exception;
 
 /**
  * For HTTP 404 errros

@@ -1,13 +1,13 @@
-package com.khoubyari.example.test;
+package com.craftdemo.intuit.test;
 
 /**
  * Uses JsonPath: http://goo.gl/nwXpb, Hamcrest and MockMVC
  */
 
+import com.craftdemo.intuit.Application;
+import com.craftdemo.intuit.api.rest.HotelController;
+import com.craftdemo.intuit.domain.Hotel;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.khoubyari.example.Application;
-import com.khoubyari.example.api.rest.HotelController;
-import com.khoubyari.example.domain.Hotel;
 
 import org.junit.Before;
 import org.junit.Test;
